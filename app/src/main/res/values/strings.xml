@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bayan-MidTerm20</string>
+    <string name="namehint">Insert your name</string>
+    <string name="birthhint">Insert your Birth date</string>
+</resources>
